@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**zericardojesus/zericardojesus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!---  😉 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+{ 
+
+Eu sou o José Ricardo de Oliveira, sou um programador Front End, atualmente estou aprendendo e 
+criando projetos com:
+
+<br>
+<br>
+- <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" />
+ 
+e iniciando o contêudo 
+JavaScrip e 
+React.
+Minha meta é ser um desenvolvendor focado em sistemas mobile, sites, sistemas de gestão de negocios. 
+Hoje eu sou técnico em informática e celulares, contudo estou carreira de transição e amando ser programador, sou 
+mim pergunto porque não entrei antes "Minha escola se chama DevClub". }
